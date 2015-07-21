@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "extrathings",
+  "name": "Extra Things",
+  "description": "Adds some extra things to minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["PiWalker"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
